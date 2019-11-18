@@ -1,0 +1,22 @@
+spring:
+  application:
+    name: app-t248-config
+  cloud:
+    config:
+      label: master
+      server:
+        git:
+          uri: https://github.com/theshy0927/spring-cloud-config
+          search-paths: repos
+          username: theshy0927
+          password: yuyongbo9527
+  zipkin:
+   base-url: http://localhost:9411
+
+server:
+  port: 8888
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
