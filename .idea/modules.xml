@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/meite-shop-basic/meite-shop-basic.iml" filepath="$PROJECT_DIR$/meite-shop-basic/meite-shop-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meite-shop-basic/meite-shop-basic-springcloud-config/meite-shop-basic-springcloud-config.iml" filepath="$PROJECT_DIR$/meite-shop-basic/meite-shop-basic-springcloud-config/meite-shop-basic-springcloud-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/meite-shop-basic/meite-shop-basic-springcloud-eureka/meite-shop-basic-springcloud-eureka.iml" filepath="$PROJECT_DIR$/meite-shop-basic/meite-shop-basic-springcloud-eureka/meite-shop-basic-springcloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meite-shop-basic/meite-shop-basics-springcloud-zuul/meite-shop-basics-springcloud-zuul.iml" filepath="$PROJECT_DIR$/meite-shop-basic/meite-shop-basics-springcloud-zuul/meite-shop-basics-springcloud-zuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/meite-shop-common/meite-shop-common.iml" filepath="$PROJECT_DIR$/meite-shop-common/meite-shop-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/meite-shop-parent.iml" filepath="$PROJECT_DIR$/meite-shop-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/meite-shop-portal/meite-shop-portal.iml" filepath="$PROJECT_DIR$/meite-shop-portal/meite-shop-portal.iml" />

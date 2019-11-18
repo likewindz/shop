@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="meite-shop-service-api-weixin" />
+        <module name="meite-shop-basic-springcloud-config" />
+        <module name="meite-shop-basics-springcloud-zuul" />
         <module name="meite-shop-portal" />
         <module name="meite-shop-service-api-member" />
         <module name="meite-shop-basic-springcloud-eureka" />
@@ -17,7 +19,9 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="meite-shop-basic" target="1.8" />
+      <module name="meite-shop-basic-springcloud-config" target="1.8" />
       <module name="meite-shop-basic-springcloud-eureka" target="1.8" />
+      <module name="meite-shop-basics-springcloud-zuul" target="1.8" />
       <module name="meite-shop-common" target="1.8" />
       <module name="meite-shop-parent" target="1.8" />
       <module name="meite-shop-portal" target="1.8" />
@@ -32,7 +36,9 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="meite-shop-basic" options="" />
+      <module name="meite-shop-basic-springcloud-config" options="-parameters" />
       <module name="meite-shop-basic-springcloud-eureka" options="-parameters" />
+      <module name="meite-shop-basics-springcloud-zuul" options="-parameters" />
       <module name="meite-shop-common" options="-parameters" />
       <module name="meite-shop-parent" options="-parameters" />
       <module name="meite-shop-portal" options="-parameters" />

@@ -1,7 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9688842e-f605-4122-be4e-d911fceed336" name="Default Changelist" comment="" />
+    <list default="true" id="9688842e-f605-4122-be4e-d911fceed336" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_1_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_54.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jzlib_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_spring4all_swagger_spring_boot_starter_1_7_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_bean_validators_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_4_11_0_201803080745_r.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_http_apache_4_11_0_201803080745_r.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reflections_reflections_0_9_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_zuul_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_zuul_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meite-shop-basic/meite-shop-basic-springcloud-config/meite-shop-basic-springcloud-config.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meite-shop-basic/meite-shop-basic-springcloud-config/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meite-shop-basic/meite-shop-basic-springcloud-config/src/main/java/com/t248/app/ConfigServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meite-shop-basic/meite-shop-basics-springcloud-zuul/meite-shop-basics-springcloud-zuul.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meite-shop-basic/meite-shop-basics-springcloud-zuul/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meite-shop-basic/meite-shop-basics-springcloud-zuul/src/main/java/com/t248/app/ZuulApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meite-shop-basic/meite-shop-basics-springcloud-zuul/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meite-shop-basic/meite-shop-basics-springcloud-zuul/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meite-shop-basic/meite-shop-basics-springcloud-zuul/target/classes/com/t248/app/ZuulApplication$DocumentationConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meite-shop-basic/meite-shop-basics-springcloud-zuul/target/classes/com/t248/app/ZuulApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/com/t248/member/hystrix/WeiXinServiceHystrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-basic/meite-shop-basic-springcloud-eureka/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-basic/meite-shop-basic-springcloud-eureka/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-basic/meite-shop-basic-springcloud-eureka/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-basic/meite-shop-basic-springcloud-eureka/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-basic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-basic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-member/meite-shop-service-api-member.iml" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-member/meite-shop-service-api-member.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-member/src/main/java/com/t248/member/service/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-member/src/main/java/com/t248/member/service/MemberService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-member/target/classes/com/t248/member/service/MemberService.class" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-member/target/classes/com/t248/member/service/MemberService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-weixin/meite-shop-service-api-weixin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-weixin/meite-shop-service-api-weixin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-weixin/src/main/java/com/t248/weixin/entity/AppEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-weixin/src/main/java/com/t248/weixin/entity/AppEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-weixin/src/main/java/com/t248/weixin/service/WeiXinService.java" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-weixin/src/main/java/com/t248/weixin/service/WeiXinService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-weixin/target/classes/com/t248/weixin/entity/AppEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-weixin/target/classes/com/t248/weixin/entity/AppEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-weixin/target/classes/com/t248/weixin/service/WeiXinService.class" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-weixin/target/classes/com/t248/weixin/service/WeiXinService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-impl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-impl.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/meite-shop-service-member.iml" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/meite-shop-service-member.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/com/t248/member/MemberApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/com/t248/member/MemberApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/com/t248/member/feign/WeiXinServiceFeign.java" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/com/t248/member/feign/WeiXinServiceFeign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/com/t248/member/service/impl/MemberServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/java/com/t248/member/service/impl/MemberServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/target/classes/com/t248/member/MemberApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/target/classes/com/t248/member/MemberApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/target/classes/com/t248/member/feign/WeiXinServiceFeign.class" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/target/classes/com/t248/member/feign/WeiXinServiceFeign.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/target/classes/com/t248/member/service/impl/MemberServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member/target/classes/com/t248/member/service/impl/MemberServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/meite-shop-service-weixin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/meite-shop-service-weixin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/java/com/t248/weixin/WeiXinApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/java/com/t248/weixin/WeiXinApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/java/com/t248/weixin/service/impl/WeiXinServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/java/com/t248/weixin/service/impl/WeiXinServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/target/classes/com/t248/weixin/WeiXinApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/target/classes/com/t248/weixin/WeiXinApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/target/classes/com/t248/weixin/service/impl/WeiXinServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/target/classes/com/t248/weixin/service/impl/WeiXinServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/pom.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +99,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -31,11 +118,16 @@
     </option>
   </component>
   <component name="ProjectId" id="1TjYOx93K1nt4gceYdG6M0UrNDw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/java/com/t248/weixin" />
@@ -47,9 +139,14 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.proportion" value="0.15560167" />
+    <property name="project.structure.side.proportion" value="0.33783785" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\demo\meite-shop-parent\meite-shop-basic\meite-shop-basics-springcloud-zuul\src\main\resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -144,10 +241,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="meite-shop-basics-springcloud-zuul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.t248.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.t248.app.ZuulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.MemberApplication" />
         <item itemvalue="Spring Boot.WeiXinApplication" />
+        <item itemvalue="Spring Boot.ZuulApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -161,11 +272,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573974943939</updated>
-      <workItem from="1573974947803" duration="12156000" />
+      <workItem from="1573974947803" duration="15811000" />
+      <workItem from="1574038973360" duration="6396000" />
+      <workItem from="1574073548769" duration="1987000" />
+      <workItem from="1574080904327" duration="1061000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

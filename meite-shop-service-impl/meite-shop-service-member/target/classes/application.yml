@@ -10,3 +10,16 @@ eureka:
   client:
     service-url:
       defaultZone: http://localhost:8100/eureka
+
+####swagger相关配置
+swagger:
+  base-package: com.t248.member.service
+  title: 用户服务接口
+  description: Spring Cloud项目实践
+  version: 1.1
+  contact:
+    name: 风继续吹
+    email: 1366845556@qq.com
+feign:
+  hystrix:
+    enabled: true
