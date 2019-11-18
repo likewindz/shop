@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9688842e-f605-4122-be4e-d911fceed336" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/meite-shop-basic/meite-shop-basic-springcloud-config/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meite-shop-basic/meite-shop-basic-springcloud-config/src/main/repos/web-admin-feign.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,7 +50,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin/src/main/java/com/t248/weixin" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/meite-shop-basic/meite-shop-basic-springcloud-config/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/meite-shop-basic/meite-shop-basic-springcloud-config/src/main/repos" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -64,6 +64,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\demo\meite-shop-parent\meite-shop-basic\meite-shop-basic-springcloud-config\src\main\repos" />
       <recent name="D:\project\demo\meite-shop-parent\meite-shop-basic\meite-shop-basic-springcloud-config\src\main\resources" />
       <recent name="D:\project\demo\meite-shop-parent\meite-shop-basic\meite-shop-basics-springcloud-zuul\src\main\resources" />
     </key>
@@ -211,7 +212,7 @@
       <workItem from="1574038973360" duration="6396000" />
       <workItem from="1574073548769" duration="1987000" />
       <workItem from="1574080904327" duration="1196000" />
-      <workItem from="1574085443275" duration="329000" />
+      <workItem from="1574085443275" duration="633000" />
     </task>
     <servers />
   </component>
